@@ -48,5 +48,7 @@ hr{
     opacity: 0.9;
     border-radius: 2px;
 }
-@media screen {max-width: 600px;
+
+@media screen {
+    max-width: 650px;
 }

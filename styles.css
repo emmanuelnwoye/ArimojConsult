@@ -50,5 +50,5 @@ hr{
 }
 
 @media screen {
-    max-width: 650px;
+    min-width: 600px;
 }

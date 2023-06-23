@@ -13,7 +13,7 @@ body{
 
 .container{
     display: flex;
-    width: 50%;
+    width: 550px;
     align-items: center;
     flex-direction: column;
     justify-content: center;
@@ -21,7 +21,7 @@ body{
 }
 
 input[type=text], input[type=Email], textarea{
-    width: 100%;
+    width: 500px;
     padding: 15px;
     margin: 5px 0 22px 0;
     display: inline-block;

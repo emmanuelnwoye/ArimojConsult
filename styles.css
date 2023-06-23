@@ -1,0 +1,56 @@
+
+body{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+
+.image{
+    width: 200px;
+    height: 200px;
+    margin-bottom: -80px;
+}
+
+.container{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: fit-content;
+    background-color: aqua;
+}
+
+input[type=text], input[type=Email], input[type=text1]{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    border-radius: 2px;
+}
+
+.change{
+    height: 12rem;
+    color: blueviolet;
+}
+
+hr{
+    border: 1px solid #f1f1f1; 
+    margin-bottom: 25px; 
+    width: 100%;
+}
+
+.Registration 
+    {background-color: blue;
+    color: white;
+    padding: 16px 20px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    border-radius: 2px;
+}
